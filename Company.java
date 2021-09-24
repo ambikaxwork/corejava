@@ -1,0 +1,3 @@
+enum Company{
+	HPGAS,BHARATHGAS,INDIANEGAS;
+}

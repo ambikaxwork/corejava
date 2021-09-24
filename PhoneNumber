@@ -1,0 +1,12 @@
+class PhoneNumber{
+	public static void main(String[] value)
+	{
+		long ph1:9844722672;
+		long ph2:6361552810;
+		long ph3:7349593631;
+		long[] phonenos={ph1,ph2,ph3,9844722672l};
+		int size=phonenos.length;
+		System.out.println(ph1);
+		System.out.println(size);
+	}
+}
