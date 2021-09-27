@@ -1,6 +1,7 @@
 class ActorName{
 	public static String[] actorsnamebymovie(String movie)
-	{System.out.println("movie name is " + movie);
+	{
+		System.out.println("movie name is " + movie);
 		if(movie=="kgf")
 		{
 			String[] actor={"yash","ananthnag","srinidhi"};

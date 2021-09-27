@@ -12,4 +12,5 @@ class NewsPaper{
 		this.language=language;
 	}
 	
+	NewsPaper(String name,String ownerName,NewsLanguage language)
 }

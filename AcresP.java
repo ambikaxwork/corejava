@@ -7,7 +7,7 @@ class AcresP{
 		String rupee="100";
 		double rupee1=Double.parseDouble(rupee);
 		System.out.println(rupee1);
-	    float price=20;
+	        float price=20;
 		String price1=String.valueOf(price);
 		System.out.println(price1);
 		String gender="F";
