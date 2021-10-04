@@ -1,0 +1,4 @@
+enum SaloonBranch{
+	
+	KORMANGLA,BTM,JPNAGAR,JAYNAGAR,RAJAJINAGAR;
+}
