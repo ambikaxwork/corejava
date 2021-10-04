@@ -1,0 +1,55 @@
+Association's 
+
+5 examples / Things 
+
+Tree
+Planet
+Sapota
+Nayi
+Stestoscope
+Maggie
+Corn
+UnderGroud
+Chips
+		IceCream
+Grapes
+Kebab
+
+
+
+
+ICecream 
+	flavour
+	color(enum)
+	temp
+	type
+	Brand brand;
+	
+Brand
+		name,owner,location,since
+
+Forest
+	name,location,reserved,State
+	
+State 
+	name,noOfDistricts,cmName,CapitalCity 
+	
+CapitalCity
+	name,population,famousFor
+	 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

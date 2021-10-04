@@ -1,4 +1,7 @@
 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
 
 git push
-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@https://github.com/ambikaxwork/corejava.gitbasicprograms
+https://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@github.com/ambikaxwork/corejava.git basicprograms
+
+
+
