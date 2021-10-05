@@ -15,7 +15,7 @@ class ForestStarter{
 	
 		state.capitalCity=new CapitalCity();
 		CapitalCity city =state.capitalCity;
-		String capital="banglore";
+		//String capital="banglore";
 		city.famousFor="temples";
 		System.out.println(city.name);
 		System.out.println(city.population);
@@ -26,6 +26,7 @@ class ForestStarter{
 		forest1.location="changlang";
 		System.out.println(forest1.name);
 		System.out.println(forest1.location);
+		
 		forest1.state=new State(30,city);
 		State state1=forest1.state;
 		state1.name="Arunachal pradesh";
