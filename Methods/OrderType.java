@@ -1,0 +1,4 @@
+enum OrderType{
+	
+	ONLINE,OFFLINE;
+}
