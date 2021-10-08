@@ -3,7 +3,7 @@ class MovieTicket{
 	String theater;
 	float price;
 	int noOfSeats;
-	float TotalPrice;
+	float totalPrice;
 	
 	MovieTicket(String movieName,String theater,float price,int noOfSeats)
 	{
@@ -23,7 +23,7 @@ class MovieTicket{
 	}
 	void printTotalPrice()
 	{
-		TotalPrice=noOfSeats*price;
-		System.out.println(TotalPrice);
+		totalPrice=noOfSeats*price;
+		System.out.println(totalPrice);
 	}
 }
