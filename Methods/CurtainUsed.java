@@ -1,0 +1,4 @@
+enum CurtainUsed{
+	
+	DOOR,WINDOW;
+}

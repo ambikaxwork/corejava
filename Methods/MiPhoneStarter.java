@@ -16,7 +16,7 @@ class MiPhoneStarter{
 		phonePay.architect="Ambika";
 		phonePay.working=true;
 		miPhone.setPhonePay(phonePay);
-		System.out.println(miPhone.phonePay.companyName);
+		System.out.println(phonePay.companyName);
 		System.out.println(miPhone.phonePay.version);
 		System.out.println(miPhone.phonePay.architect);
 		System.out.println(miPhone.phonePay.working);

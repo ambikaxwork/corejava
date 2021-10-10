@@ -1,0 +1,4 @@
+enum ContractorType{
+	
+	GOVERNMENT,PRIVATE;
+}
