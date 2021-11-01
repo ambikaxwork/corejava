@@ -19,6 +19,9 @@ public class FishStarter {
 		Fish fish1 =new SharkFish();
 		System.out.println(fish1.getRegion());
 		System.out.println(fish1.isAlive());
+		Fish fish2=new GoldFish();
+		System.out.println(fish2.getRegion());
+	
 		
 
 	}
